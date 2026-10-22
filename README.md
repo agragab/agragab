@@ -1,7 +1,7 @@
 # Hi, I'm Abd el Rahman 👋
 
-Computer Engineering student in **Berlin**, graduating after my final semester at GIU Berlin I write Python, ship it in containers, and gate it with tests.
-
+Computer Engineering student in **Berlin**, 
+I write Python, ship it in containers, and gate it with tests.
 
 ## What I'm building
 
@@ -21,7 +21,7 @@ Computer Engineering student in **Berlin**, graduating after my final semester a
 
 ## Currently learning
 
-Async Python, SQL / PostgreSQL, and stricter typing (mypy, ruff).
+Async Python, PostgreSQL, and stricter typing (mypy, ruff).
 
 ## Looking for
 
